@@ -1,0 +1,22 @@
+{
+    "version": "0.6.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.3/mockd_0.6.3_windows_amd64.zip",
+            "bin": [
+                "mockd.exe"
+            ],
+            "hash": "f5861a019b78a4d54881dbde375058a0355c8feeaafcdeab0945fd3472805604"
+        },
+        "arm64": {
+            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.3/mockd_0.6.3_windows_arm64.zip",
+            "bin": [
+                "mockd.exe"
+            ],
+            "hash": "38f028fb6383ab321e9a57b35c81a88805b853ebda2b11aba9deaedccede37e5"
+        }
+    },
+    "homepage": "https://mockd.io",
+    "license": "Apache-2.0",
+    "description": "High-performance multi-protocol API mocking server"
+}
