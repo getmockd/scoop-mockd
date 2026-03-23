@@ -1,19 +1,19 @@
 {
-    "version": "0.6.3",
+    "version": "0.6.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.3/mockd_0.6.3_windows_amd64.zip",
+            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.4/mockd_0.6.4_windows_amd64.zip",
             "bin": [
                 "mockd.exe"
             ],
-            "hash": "f5861a019b78a4d54881dbde375058a0355c8feeaafcdeab0945fd3472805604"
+            "hash": "09e9c641233d9a68d627b2fdab6bc173f0f2597205cd4c11a7d4be3d1b80a740"
         },
         "arm64": {
-            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.3/mockd_0.6.3_windows_arm64.zip",
+            "url": "https://github.com/getmockd/mockd/releases/download/v0.6.4/mockd_0.6.4_windows_arm64.zip",
             "bin": [
                 "mockd.exe"
             ],
-            "hash": "38f028fb6383ab321e9a57b35c81a88805b853ebda2b11aba9deaedccede37e5"
+            "hash": "a8e88a89efe6f278236aaa1ee7c3986fc0e6ad119e58f279d36da64758f54103"
         }
     },
     "homepage": "https://mockd.io",
